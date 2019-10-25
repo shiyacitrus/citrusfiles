@@ -1,3 +1,4 @@
 This is a sample text file.
 Added one line to the file.
 Added one more line to the file.
+Studying the working of Git and Github.
